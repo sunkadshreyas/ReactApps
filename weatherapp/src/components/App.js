@@ -6,7 +6,7 @@ import SearchBar from './SearchBar';
 import  Display  from './Display';
 import '../styles.css'
 
-const API_KEY = "ff5f3e41ab60f030c8a9277fb1a3d818"
+const API_KEY = "" // use the API key from OpenWeather site
 
 class App extends React.Component{
   constructor(){
